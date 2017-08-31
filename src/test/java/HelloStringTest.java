@@ -9,7 +9,7 @@ public class HelloStringTest {
 
     @org.junit.Test
     public void sayHello() throws Exception {
-        assertEquals("Hello",testClass.sayHello());
+        assertEquals("HelloWorld",testClass.sayHello());
     }
 
 }
