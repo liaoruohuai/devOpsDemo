@@ -11,7 +11,7 @@ public class HelloString {
         while (1==1)
         {
             count++;
-            System.out.println(count + " Second Passed");
+            System.out.println(count + " Second Passed done");
             try{
              sleep(1000);
             }catch (InterruptedException e) {
